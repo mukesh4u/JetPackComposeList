@@ -10,4 +10,4 @@ No Adapter. No View holder.
 - A LazyColumn is a vertically scrolling list that only composes and lays out the currently visible items.
  It’similar to a Recyclerview in the classic Android View system.
  
- !(https://github.com/mukesh4u/JetPackComposeList/blob/8e3af602397a2b7301d315885509c4fbf6d067ca/screenshot/Capture.PNG)
+ ![alt text](https://github.com/mukesh4u/JetPackComposeList/blob/8e3af602397a2b7301d315885509c4fbf6d067ca/screenshot/Capture.PNG)
